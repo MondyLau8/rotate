@@ -2,9 +2,7 @@
 
 # env list
 
-(mmrotate) s122mdg310_10@gpu310:~$ conda --version
-conda 23.1.0
-(mmrotate) s122mdg310_10@gpu310:~$ conda list
+**Package List**
 
 Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main
