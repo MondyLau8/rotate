@@ -5,9 +5,8 @@
 (mmrotate) s122mdg310_10@gpu310:~$ conda --version
 conda 23.1.0
 (mmrotate) s122mdg310_10@gpu310:~$ conda list
-# packages in environment at /media/mldadmin/home/s122mdg310_10/miniconda3/envs/mmrotate:
-#
-# Name                    Version                   Build  Channel
+
+Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main
 _openmp_mutex             5.1                       1_gnu
 addict                    2.4.0                    pypi_0    pypi
